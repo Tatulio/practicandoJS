@@ -1,0 +1,3 @@
+npm init  
+npm i -g npm
+npm install prompt-sync
