@@ -1,0 +1,23 @@
+{
+  "name": "js-open-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatulio/practicandoJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatulio/practicandoJS/issues"
+  },
+  "homepage": "https://github.com/Tatulio/practicandoJS#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
