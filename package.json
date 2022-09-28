@@ -1,0 +1,26 @@
+{
+  "name": "js-open-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix .",
+    "start": "http-server ."
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatulio/practicandoJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatulio/practicandoJS/issues"
+  },
+  "homepage": "https://github.com/Tatulio/practicandoJS#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-plugin-react": "^7.31.8"
+  }
+}
